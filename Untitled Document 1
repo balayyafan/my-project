@@ -1,0 +1,95 @@
+<html>
+
+<head>
+<title>manoj hobies</title>
+</head>
+
+<body>
+<h3 align="center" style="color:green"><u> <i> my name is manoj from 1/4 cic </i> </u> </h3>
+<ol>
+
+<li>playing games </li><br>
+<li>like bike rideings</li><br>
+<li>i like super bikes</li><br>
+<li>they are duke 250 and kawasaki ninja</li><br>
+ 
+</ol>
+<hr>
+
+<ul>
+
+<li>my mobile name is oppo</li><br>
+<li>my from prakasam</li><br>
+
+</ul>
+<table border=3 bgcolor="yellow">
+<tr>
+<th>sl.no</th>
+<th>names</th>
+<th>roll no</th>
+<th>branch</th>
+<th>year</th>
+<th>from</th>
+</tr>
+<tr>
+<td>1</td>
+<td>manoj</th>
+<td>10</td>
+<td>CIC</td>
+<td>1st year</td>
+<td>hyd</td>
+</tr>
+<tr>
+<td>2</td>
+<td>salman raju</td>
+<td>21</td>
+<td>ece</td>
+<td>2nd year</td>
+<td>gnt</td>
+</tr>
+<tr>
+<td>3</td>
+<td>jaswath</td>
+<td>17</td>
+<td>cic</td>
+<td>3st year</td>
+<td>bhima</td>
+<tr/>
+<tr>
+<td>4</td>
+<td>koti</td>
+<td>55</td>
+<td>civel</td>
+<td>4th year</td>
+<td>ong</td>
+<tr/>
+</table>
+<dd>names of the bikes</dd>
+<dl>ktm duke </dl>
+<dl>kawasaki </dl>
+<dl>bajaj</dl>
+<img src="ind.jpeg">
+<a href="https://youtu.be/j-Ow6ns3zlk">nbk</a>
+<h1 align="center"><u>forms</u></h1>
+
+<from>
+ENRER NAME:<input type=text name= "sname" value='' id=''><br>
+password:<input type=password name= password value='' id=''><br>
+<input type='radio' name='gender'>male
+<input type='radio' name='gender'>female<br>
+<input type=checkbox name=games>palying pubg<br>
+<input type=checkbox name=movies>seeing movies<br>
+<input type=date name=dob value='' id=''> <br>
+
+enter your address:<br><textarea     rows=10     cols=24 name=address></textarea><br>
+select your department:
+<select name='dept'>
+<option value='it'>informations technolagy</option>
+<option value= 'cic'> cybery with block chain</option>
+<option value='ece'> electrical computer science</option>
+</select>
+</from>
+
+</body>
+
+</html>
