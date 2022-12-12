@@ -1,0 +1,241 @@
+<html>
+
+<head>
+<title>manoj hobies</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+
+
+ <style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 90%;
+    height: 90%;
+  }
+  </style>
+
+</head>
+<style>
+body {
+   background-color:lightblue;
+}
+</style>
+<body>
+<h3 align="center" style="color:red"><u> <i> my name is manoj from 1/4 cic </i> </u> </h3>
+<ol>
+
+<li style="color:blue">playing games </li><br>
+<li style="color:blue">like bike rideings</li><br>
+<li style="color:blue">i like super bikes</li><br>
+<li style="color:blue">they are duke 250 and kawasaki ninja</li><br>
+ 
+</ol>
+<hr>
+
+<ul>
+
+<li style="color:blue">my mobile name is oppo</li><br>
+<li style="color:blue">my from prakasam</li><br>
+
+</ul>
+<table border=3 bgcolor="yellow">
+<tr>
+<th>sl.no</th>
+<th>names</th>
+<th>roll no</th>
+<th>branch</th>
+<th>year</th>
+<th>from</th>
+</tr>
+<tr>
+<td>1</td>
+<td>manoj</th>
+<td>10</td>
+<td>CIC</td>
+<td>1st year</td>
+<td>hyd</td>
+</tr>
+<tr>
+<td>2</td>
+<td>salman raju</td>
+<td>21</td>
+<td>ece</td>
+<td>2nd year</td>
+<td>gnt</td>
+</tr>
+<tr>
+<td>3</td>
+<td>jaswath</td>
+<td>17</td>
+<td>cic</td>
+<td>3st year</td>
+<td>bhima</td>
+<tr/>
+<tr>
+<td>4</td>
+<td>koti</td>
+<td>55</td>
+<td>civel</td>
+<td>4th year</td>
+<td>ong</td>
+<tr/>
+</table>
+<dd style="color:yellow">names of the bikes</dd>
+<dl style="color:blue">ktm duke </dl>
+<dl style="color:blue">kawasaki </dl>
+<dl style="color:blue">bajaj</dl>
+<img src="4.jpeg">
+<a href="https://youtu.be/j-Ow6ns3zlk">nbk</a>
+<h1 align="center"><u>forms</u></h1>
+
+<from>
+ENRER NAME:<input type=text name= "sname" value='' id=''><br>
+password:<input type=password name= password value='' id=''><br>
+<input type='radio' name='gender'>male
+<input type='radio' name='gender'>female<br>
+<input type=checkbox name=games>palying pubg<br>
+<input type=checkbox name=movies>seeing movies<br>
+<input type=date name=dob value='' id=''> <br>
+
+enter your address:<br><textarea     rows=10     cols=24 name=address></textarea><br>
+select your department:
+<select name='dept'>
+<option value='it'>informations technolagy</option>
+<option value= 'cic'> cybery with block chain</option>
+<option value='ece'> electrical computer science</option>
+</select>
+</from>
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-primary link"0>
+  <a class="navbar-brand" href="#">jai balayya</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+
+      <li class="nav-item active">
+        <a class="nav-link" href="about.html" target="new">Home <span class="sr-only">(current)</span></a>
+      </li>
+ <li class="nav-item active">
+        <a class="nav-link" href="contact.html" target="new">contact <span class="sr-only">(current)</span></a>
+      </li>
+ <li class="nav-item active">
+        <a class="nav-link" href="about.html" target="new">address <span class="sr-only">(current)</span></a>
+      </li>
+<li class="nav-item active">
+        <a class="nav-link" href="image.html" target="new">gmail <span class="sr-only">(current)</span></a>
+      </li>
+     
+   
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+   
+    </ul>
+   
+  </div>
+</nav>
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="1.jpeg" alt="Los Angeles" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="3.jpeg" alt="Chicago" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="4.jpeg" alt="New York" width="1100" height="500">
+    </div>
+  </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+<div class="jumbotron">
+  <h1 class="display-4">jai balayya</h1>
+  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <hr class="my-4">
+  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p>JavaScript can change HTML attribute values.</p>
+
+<p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
+
+<button onclick="document.getElementById('myImage').src='bulb.jpeg'">Turn on the light</button>
+
+<img id="myImage" src="bulb.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='bulb2.gif'">Turn off the light</button>
+
+
+
+<h2>JavaScript Alert</h2>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  alert("I am an alert box!");
+}
+</script>
+</body>
+
+</html>
